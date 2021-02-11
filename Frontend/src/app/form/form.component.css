@@ -1,0 +1,39 @@
+
+.form-control{
+    width:700px;
+}
+
+.ipt{
+  margin-left: 200px;
+}
+
+.addevento{
+  margin-left: 200px;
+}
+
+h2{
+  text-align: center;
+}
+
+th{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+.row{
+    margin-top: 20px;
+}
+
+table{
+    margin-top: 20px;
+}
+.cadastro {
+  background-color: #faf5cc;
+}
+
+.lista{
+  background-color: #e3e9e9;
+}
